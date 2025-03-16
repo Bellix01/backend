@@ -6,3 +6,4 @@ supabase==2.4.0  # Adjust version as needed
 bcrypt==4.1.2    # Adjust version as needed
 Flask-JWT-Extended==4.6.0  # Adjust version as needed
 werkzeug==3.0.3  # Already included in your imports
+
